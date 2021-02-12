@@ -1,3 +1,3 @@
 Django_Practice
 
-- Shopping mall
+- Shopping mall(Django, Django Rest Framework)
